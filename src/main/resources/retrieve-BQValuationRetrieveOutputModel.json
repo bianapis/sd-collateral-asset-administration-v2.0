@@ -1,0 +1,44 @@
+{
+  "valuationRetrieveActionTaskReference" : "VRATR734221",
+  "valuationRetrieveActionResponse" : "valuationRetrieveActionResponse",
+  "valuationInstanceAnalysis" : {
+    "valuationInstanceAnalysisReportType" : "valuationInstanceAnalysisReportType",
+    "valuationInstanceAnalysisParameters" : "valuationInstanceAnalysisParameters",
+    "valuationInstanceAnalysisRecord" : {},
+    "valuationInstanceAnalysisReport" : {}
+  },
+  "valuationInstanceReport" : {
+    "valuationInstanceReportParameters" : "valuationInstanceReportParameters",
+    "valuationInstanceReportType" : "valuationInstanceReportType",
+    "valuationInstanceReport" : {},
+    "valuationInstanceReportRecord" : {}
+  },
+  "valuationInstanceRecord" : {
+    "collateralAssetValuationServiceReference" : "710003",
+    "collateralAssetValuation" : "collateralAssetValuation",
+    "collateralAssetValuationType" : "collateralAssetValuationType",
+    "collateralAssetValuationDate" : "09-22-2018",
+    "collateralAssetLoantoValueRatio" : "collateralAssetLoantoValueRatio"
+  },
+  "valuationRetrieveActionTaskRecord" : {},
+  "collateralAssetAdministrativePlanInstanceRecord" : {
+    "collateralAssetReference" : "704055",
+    "collateralAssetRecord" : {
+      "collateralAssetDocumentReference" : "734392",
+      "collateralAssetValuationSchedule" : "collateralAssetValuationSchedule",
+      "collateralAssetStatus" : "collateralAssetStatus",
+      "collateralAssetDescription" : "collateralAssetDescription",
+      "collateralAssetPledgedDate" : "09-22-2018",
+      "collateralAssetLocation" : "collateralAssetLocation",
+      "collateralAssetInsuranceReference" : "754103",
+      "collateralAssetType" : "collateralAssetType",
+      "collateralAssetProperties" : "collateralAssetProperties",
+      "collateralAssetOwnership" : "collateralAssetOwnership",
+      "collateralAssetInterestedParties" : "collateralAssetInterestedParties",
+      "collateralAssetDocumentType" : "collateralAssetDocumentType",
+      "collateralAssetJurisdiction" : "collateralAssetJurisdiction",
+      "collateralAssetValuationHistory" : "collateralAssetValuationHistory",
+      "collateralAssetTitle" : "collateralAssetTitle"
+    }
+  }
+}

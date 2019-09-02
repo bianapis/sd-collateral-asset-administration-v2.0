@@ -1,0 +1,14 @@
+{
+  "collateralAssetAdministrativePlanInstanceReference" : "CAAPIR751064",
+  "collateralAssetAdministrativePlanInstanceStatus" : "collateralAssetAdministrativePlanInstanceStatus",
+  "collateralAssetAdministrativePlanCreateActionRecord" : {},
+  "collateralAssetAdministrativePlanInstanceRecord" : {
+    "collateralAssetReference" : "744936",
+    "collateralAssetRecord" : {
+      "collateralAssetDocumentReference" : "753310",
+      "collateralAssetStatus" : "collateralAssetStatus",
+      "collateralAssetValuationHistory" : "collateralAssetValuationHistory"
+    }
+  },
+  "collateralAssetAdministrativePlanCreateActionReference" : "CAAPCAR703664"
+}

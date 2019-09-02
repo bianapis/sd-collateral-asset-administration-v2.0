@@ -1,0 +1,10 @@
+{
+  "valuationCreateActionReference" : "VCAR735041",
+  "valuationCreateActionRecord" : {},
+  "valuationInstanceRecord" : {
+    "collateralAssetValuation" : "collateralAssetValuation",
+    "collateralAssetValuationDate" : "09-22-2018"
+  },
+  "valuationInstanceStatus" : "valuationInstanceStatus",
+  "valuationInstanceReference" : "VIR799121"
+}

@@ -1,0 +1,14 @@
+{
+  "maintenanceInstanceRecord" : {
+    "collateralAssetMaintenanceServiceProviderReference" : "781446",
+    "collateralAssetMaintenanceTaskType" : "collateralAssetMaintenanceTaskType"
+  },
+  "maintenanceUpdateActionTaskRecord" : {},
+  "updateResponseRecord" : {},
+  "maintenanceUpdateActionTaskReference" : "MUATR740054",
+  "collateralAssetAdministrativePlanInstanceRecord" : {
+    "collateralAssetRecord" : {
+      "collateralAssetMaintenanceSchedule" : "collateralAssetMaintenanceSchedule"
+    }
+  }
+}

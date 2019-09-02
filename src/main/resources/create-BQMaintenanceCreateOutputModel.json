@@ -1,0 +1,10 @@
+{
+  "maintenanceInstanceRecord" : {
+    "collateralAssetMaintenanceSafekeepingFees" : "collateralAssetMaintenanceSafekeepingFees",
+    "collateralAssetVerificationandComplianceRecord" : {}
+  },
+  "maintenanceCreateActionRecord" : {},
+  "maintenanceCreateActionReference" : "MCAR734011",
+  "maintenanceInstanceReference" : "MIR711365",
+  "maintenanceInstanceStatus" : "maintenanceInstanceStatus"
+}

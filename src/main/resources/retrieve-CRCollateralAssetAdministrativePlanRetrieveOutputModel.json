@@ -1,0 +1,36 @@
+{
+  "collateralAssetAdministrativePlanRetrieveActionTaskRecord" : {},
+  "collateralAssetAdministrativePlanRetrieveActionTaskReference" : "CAAPRATR770084",
+  "collateralAssetAdministrativePlanInstanceReportRecord" : {
+    "collateralAssetAdministrativePlanInstanceReportType" : "collateralAssetAdministrativePlanInstanceReportType",
+    "collateralAssetAdministrativePlanInstanceReport" : {},
+    "collateralAssetAdministrativePlanInstanceReportData" : "collateralAssetAdministrativePlanInstanceReportData"
+  },
+  "collateralAssetAdministrativePlanInstanceRecord" : {
+    "collateralAssetReference" : "769316",
+    "collateralAssetRecord" : {
+      "collateralAssetDocumentReference" : "715921",
+      "collateralAssetValuationSchedule" : "collateralAssetValuationSchedule",
+      "collateralAssetMaintenanceSchedule" : "collateralAssetMaintenanceSchedule",
+      "collateralAssetStatus" : "collateralAssetStatus",
+      "collateralAssetDescription" : "collateralAssetDescription",
+      "collateralAssetPledgedDate" : "09-22-2018",
+      "collateralAssetLocation" : "collateralAssetLocation",
+      "collateralAssetInsuranceReference" : "710461",
+      "collateralAssetType" : "collateralAssetType",
+      "collateralAssetProperties" : "collateralAssetProperties",
+      "collateralAssetOwnership" : "collateralAssetOwnership",
+      "collateralAssetInterestedParties" : "collateralAssetInterestedParties",
+      "collateralAssetDocumentType" : "collateralAssetDocumentType",
+      "collateralAssetJurisdiction" : "collateralAssetJurisdiction",
+      "collateralAssetValuationHistory" : "collateralAssetValuationHistory",
+      "collateralAssetTitle" : "collateralAssetTitle"
+    }
+  },
+  "collateralAssetAdministrativePlanRetrieveActionResponse" : "collateralAssetAdministrativePlanRetrieveActionResponse",
+  "collateralAssetAdministrativePlanInstanceAnalysis" : {
+    "collateralAssetAdministrativePlanInstanceAnalysisReportType" : "collateralAssetAdministrativePlanInstanceAnalysisReportType",
+    "collateralAssetAdministrativePlanInstanceAnalysisData" : "collateralAssetAdministrativePlanInstanceAnalysisData",
+    "collateralAssetAdministrativePlanInstanceAnalysisReport" : {}
+  }
+}

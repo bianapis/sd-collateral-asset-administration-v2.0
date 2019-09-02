@@ -1,0 +1,1 @@
+# Collateral Asset Administration Service Domain v2.0

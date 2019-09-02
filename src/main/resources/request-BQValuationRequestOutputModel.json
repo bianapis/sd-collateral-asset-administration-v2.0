@@ -1,0 +1,10 @@
+{
+  "valuationRequestActionTaskReference" : "VRATR733800",
+  "valuationRequestRecordReference" : "VRRR799103",
+  "valuationInstanceRecord" : {
+    "collateralAssetValuation" : "collateralAssetValuation",
+    "collateralAssetValuationDate" : "09-22-2018"
+  },
+  "valuationRequestActionTaskRecord" : {},
+  "requestResponseRecord" : {}
+}

@@ -1,0 +1,15 @@
+{
+  "maintenanceRequestActionTaskRecord" : {},
+  "maintenanceRequestActionTaskReference" : "MRATR728694",
+  "maintenanceInstanceRecord" : {
+    "collateralAssetMaintenanceSafekeepingFees" : "collateralAssetMaintenanceSafekeepingFees",
+    "collateralAssetVerificationandComplianceRecord" : {}
+  },
+  "maintenanceRequestRecordReference" : "MRRR777299",
+  "collateralAssetAdministrativePlanInstanceRecord" : {
+    "collateralAssetRecord" : {
+      "collateralAssetMaintenanceSchedule" : "collateralAssetMaintenanceSchedule"
+    }
+  },
+  "requestResponseRecord" : {}
+}

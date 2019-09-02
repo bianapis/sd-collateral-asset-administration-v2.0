@@ -1,0 +1,26 @@
+{
+  "collateralAssetAdministrativePlanUpdateActionTaskRecord" : {},
+  "updateResponseRecord" : {},
+  "collateralAssetAdministrativePlanUpdateActionTaskReference" : "CAAPUATR744306",
+  "collateralAssetAdministrativePlanInstanceRecord" : {
+    "collateralAssetReference" : "734493",
+    "collateralAssetRecord" : {
+      "collateralAssetDocumentReference" : "705999",
+      "collateralAssetValuationSchedule" : "collateralAssetValuationSchedule",
+      "collateralAssetMaintenanceSchedule" : "collateralAssetMaintenanceSchedule",
+      "collateralAssetStatus" : "collateralAssetStatus",
+      "collateralAssetDescription" : "collateralAssetDescription",
+      "collateralAssetPledgedDate" : "09-22-2018",
+      "collateralAssetLocation" : "collateralAssetLocation",
+      "collateralAssetInsuranceReference" : "760210",
+      "collateralAssetType" : "collateralAssetType",
+      "collateralAssetProperties" : "collateralAssetProperties",
+      "collateralAssetOwnership" : "collateralAssetOwnership",
+      "collateralAssetInterestedParties" : "collateralAssetInterestedParties",
+      "collateralAssetDocumentType" : "collateralAssetDocumentType",
+      "collateralAssetJurisdiction" : "collateralAssetJurisdiction",
+      "collateralAssetValuationHistory" : "collateralAssetValuationHistory",
+      "collateralAssetTitle" : "collateralAssetTitle"
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "valuationUpdateActionTaskReference" : "VUATR721513",
+  "updateResponseRecord" : {},
+  "valuationInstanceRecord" : {
+    "collateralAssetValuationServiceReference" : "763728",
+    "collateralAssetValuationType" : "collateralAssetValuationType",
+    "collateralAssetLoantoValueRatio" : "collateralAssetLoantoValueRatio"
+  },
+  "valuationUpdateActionTaskRecord" : {},
+  "collateralAssetAdministrativePlanInstanceRecord" : {
+    "collateralAssetRecord" : {
+      "collateralAssetValuationSchedule" : "collateralAssetValuationSchedule"
+    }
+  }
+}

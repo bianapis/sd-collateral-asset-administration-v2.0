@@ -1,0 +1,43 @@
+{
+  "maintenanceRetrieveActionTaskRecord" : {},
+  "maintenanceInstanceRecord" : {
+    "collateralAssetMaintenanceSafekeepingFees" : "collateralAssetMaintenanceSafekeepingFees",
+    "collateralAssetVerificationandComplianceRecord" : {},
+    "collateralAssetMaintenanceServiceProviderReference" : "734915",
+    "collateralAssetMaintenanceTaskType" : "collateralAssetMaintenanceTaskType"
+  },
+  "maintenanceRetrieveActionTaskReference" : "MRATR704870",
+  "collateralAssetAdministrativePlanInstanceRecord" : {
+    "collateralAssetReference" : "792422",
+    "collateralAssetRecord" : {
+      "collateralAssetDocumentReference" : "733643",
+      "collateralAssetMaintenanceSchedule" : "collateralAssetMaintenanceSchedule",
+      "collateralAssetStatus" : "collateralAssetStatus",
+      "collateralAssetDescription" : "collateralAssetDescription",
+      "collateralAssetPledgedDate" : "09-22-2018",
+      "collateralAssetLocation" : "collateralAssetLocation",
+      "collateralAssetInsuranceReference" : "786028",
+      "collateralAssetType" : "collateralAssetType",
+      "collateralAssetProperties" : "collateralAssetProperties",
+      "collateralAssetOwnership" : "collateralAssetOwnership",
+      "collateralAssetInterestedParties" : "collateralAssetInterestedParties",
+      "collateralAssetDocumentType" : "collateralAssetDocumentType",
+      "collateralAssetJurisdiction" : "collateralAssetJurisdiction",
+      "collateralAssetValuationHistory" : "collateralAssetValuationHistory",
+      "collateralAssetTitle" : "collateralAssetTitle"
+    }
+  },
+  "maintenanceInstanceReport" : {
+    "maintenanceInstanceReportRecord" : {},
+    "maintenanceInstanceReportParameters" : "maintenanceInstanceReportParameters",
+    "maintenanceInstanceReportType" : "maintenanceInstanceReportType",
+    "maintenanceInstanceReport" : {}
+  },
+  "maintenanceInstanceAnalysis" : {
+    "maintenanceInstanceAnalysisRecord" : {},
+    "maintenanceInstanceAnalysisReport" : {},
+    "maintenanceInstanceAnalysisReportType" : "maintenanceInstanceAnalysisReportType",
+    "maintenanceInstanceAnalysisParameters" : "maintenanceInstanceAnalysisParameters"
+  },
+  "maintenanceRetrieveActionResponse" : "maintenanceRetrieveActionResponse"
+}
